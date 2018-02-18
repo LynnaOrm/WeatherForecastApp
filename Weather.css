@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 970px;
+    background-color: rgb(255, 167, 67);
+}
+
+body h1{
+    margin-left: 430px;
+    margin-top: 10px;
+}
+
+#click {
+    border-radius: 10px;
+    height: 30px;
+    width: 200px;
+    font-style: italic;
+    margin-top: 15px;
+    margin-left: 390px;
+    
+}
+
+#search{
+    border-radius: 10px;
+    height: 30px;
+    width: 200px;
+    margin-left: 390px;
+    margin-top: 15px;
+    
+}
+
+#results{
+    position: center;
+    width: 200px;
+    margin-left: 15px;
+}
+
+h2{
+    margin-left: 418px;
+}
